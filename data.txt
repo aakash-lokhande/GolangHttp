@@ -1,0 +1,1 @@
+{"name":"aakash","capital":"delhi","pop":100}
